@@ -1,6 +1,6 @@
-Extra Credit for Offsec - crypto challenge
+# Extra Credit for Offsec - crypto challenge
 
-Leaked RSA
+## Leaked RSA
 
 GOAL: Use `rsa_encrypt.py` output to decrypt the ciphertext.
 
